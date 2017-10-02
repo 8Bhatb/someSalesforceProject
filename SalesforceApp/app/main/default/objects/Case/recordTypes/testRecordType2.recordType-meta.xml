@@ -44,6 +44,10 @@
             <fullName>Medium</fullName>
             <default>true</default>
         </values>
+        <values>
+            <fullName>Subba</fullName>
+            <default>false</default>
+        </values>
     </picklistValues>
     <picklistValues>
         <picklist>Product__c</picklist>
@@ -146,6 +150,25 @@
         </values>
         <values>
             <fullName>Structural</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>testPicklist__c</picklist>
+        <values>
+            <fullName>test1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test4</fullName>
             <default>false</default>
         </values>
     </picklistValues>

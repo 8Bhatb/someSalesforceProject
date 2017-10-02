@@ -33,6 +33,10 @@
     <picklistValues>
         <picklist>Priority</picklist>
         <values>
+            <fullName>BB with Subba for R1 not R2</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>High</fullName>
             <default>false</default>
         </values>
@@ -43,6 +47,10 @@
         <values>
             <fullName>Medium</fullName>
             <default>true</default>
+        </values>
+        <values>
+            <fullName>Subba</fullName>
+            <default>false</default>
         </values>
     </picklistValues>
     <picklistValues>
@@ -146,6 +154,25 @@
         </values>
         <values>
             <fullName>Structural</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>testPicklist__c</picklist>
+        <values>
+            <fullName>test1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>test4</fullName>
             <default>false</default>
         </values>
     </picklistValues>
